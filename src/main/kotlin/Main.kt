@@ -8,3 +8,5 @@ fun main() {
 fun sumTwoNumbers(firstNumber: Int, secondNumber: Int): Int {
     return firstNumber+ secondNumber
 }
+
+fun isEven(numberToCheck:Int)=numberToCheck%2==0
